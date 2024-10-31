@@ -1,0 +1,19 @@
+#mwip-label-container select,
+.mwip_form_setting input  {border-radius:6px;
+                           text-align: center;
+                           }
+
+.mwip_form_setting input {margin-bottom:20px;
+                          margin-top:5px;}
+
+.mwip_small_input  {width:40px;}
+
+.mwip_form_setting .mwip_input_margin { margin-top:20px;
+                                        display:block;}
+                                        
+.mwip-left { margin-left:10px; }
+
+.mwip_related_field {margin-bottom:5px;}
+
+#mwip_relatedbox {   margin-left:5px;
+                     margin-top:2px;}
